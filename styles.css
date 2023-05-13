@@ -1,0 +1,171 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+
+}
+/*********class selector***********/
+.top-container{ background-image: "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/Site%20owner%20using%20the%20CSS%20background%20position%20property.jpg?width=595&height=400&name=Site%20owner%20using%20the%20CSS%20background%20position%20property.jpg"("paper.gif");
+    background-color: #cccccc;;
+    position: relative;
+ padding-top: 50px;
+ margin-bottom: 0px;
+  
+       
+   }
+
+
+
+
+h1{margin:0 auto 0 auto;
+width: 50%;
+ font-family: 'Sacramento', cursive;
+font-size : 550.5%;
+color:#576CBC;
+line-height: 2;
+
+
+}
+p{
+
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+    font-size:2.3rem;
+    color:#576CBC;
+    font-weight: normal;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.lower-cloud{
+    position: absolute;
+    left:320px;
+    top:270px
+    
+}
+
+.upper-cloud{
+    position: absolute;
+    right: 350px;
+    top: 70px;
+    
+
+}
+.mountaion{
+    position: relative;
+    top:50px;
+}
+
+.skill-row1{
+    width: 50%;
+ margin:100px auto 100px auto ;
+ text-align: left;
+ line-height: 2;
+
+}
+
+.skill-row2{
+    width: 50%;
+ margin:100px auto 100px auto ;
+ text-align: right;
+ line-height: 2;
+
+}
+
+.skills-music{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.batman{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.middle-container{
+    background-color: #DED9C4;
+    padding-bottom: 30px;
+}
+
+.bottom-container{
+   padding-top: 50px;
+    background-color:#89B5AF;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 50px;
+}
+
+.profile{
+    padding-top: 50px;
+}
+.dotted{
+ width:10%;
+ border-top: 7px dotted;
+ border-bottom: none ;
+}
+.btn{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+    
+}
+
+.btn:hover{
+    background-color: #021116;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+    
+}
+
+.down{
+    width:10%;
+    border-top: 7px dotted;
+    border-bottom: none;
+}
+
+.footer-link{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style:italic;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(1, 19, 19);
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer-link:hover{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style:italic;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(53, 90, 90);
+    text-decoration: none;
+    display: inline-block;
+}
+
+.final{
+    padding-top: 7px;
+    padding-bottom: 10px;
+    color: beige;
+    font-size: smaller;
+}
